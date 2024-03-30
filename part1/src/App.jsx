@@ -36,13 +36,6 @@ const Content = (props) =>{
   )
 }
 
-const Part = () => {
-  return(
-    <div>
-      
-    </div>
-  )
-}
 
 //Calculamos el total de ejercicios del curso
 const Total = (props) =>{
